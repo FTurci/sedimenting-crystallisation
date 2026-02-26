@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Labels</key>
+	<string>\phi
+ln [J*]
+log
+log = 1.48584 + (−0.0135262)/(phi - 0.4917)^{2.2612}
+</string>
+	<key>Text</key>
+	<string></string>
+</dict>
+</plist>
